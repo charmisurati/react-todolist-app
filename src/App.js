@@ -1,4 +1,4 @@
-import './App.css'; 
+import './App.css';
 import ToDoList from './Components/ToDoList/ToDoList';
 
 
@@ -10,5 +10,5 @@ function App() {
   );
 }
 
-// app file
+
 export default App;
